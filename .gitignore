@@ -1,4 +1,6 @@
-*.txt
+result.txt
+sbw_example.txt
+sbw_example_qid.txt
 .vs/
 bin/
 out/
